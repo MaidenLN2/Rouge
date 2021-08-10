@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1_prologue.unity
+    guid: 73669a07467b40241847a3d57609c430
+  - enabled: 1
+    path: Assets/Scenes/2_rougebedroom.unity
+    guid: b1fff825b35c2b14b99e9c54f208a922
+  - enabled: 1
+    path: Assets/Scenes/3_theatre.unity
+    guid: f2f1f54d6730df249bc0b073b965cdb0
+  - enabled: 1
+    path: Assets/Scenes/4_dressingroom.unity
+    guid: bd527aeac20e056499ef02dd85e41e6d
+  - enabled: 1
+    path: Assets/Scenes/5_stage.unity
+    guid: 01ac2ae36e6d56448a4f1bed6e379868
+  - enabled: 1
+    path: Assets/Scenes/6_corridor.unity
+    guid: d535a2752cccbd14690430794f752664
+  - enabled: 1
+    path: Assets/Scenes/7_hospital.unity
+    guid: e184889d3d152454e927e9dde5f1edc3
+  - enabled: 1
+    path: Assets/Scenes/8_prologue.unity
+    guid: eb18c8ea173ca4748a4e55a042cd0dbb
+  m_configObjects: {}
